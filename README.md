@@ -1,4 +1,4 @@
-# My bookshelf
+# Resources
 
 Overview of social psychology, including biases and group behavior
 [Social Psychology course by Wesleyan University](https://www.coursera.org/learn/social-psychology)
